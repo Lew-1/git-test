@@ -11,6 +11,7 @@ public class Test {
     public void funB() {
         System.out.println("hello world");
         System.out.println("dev");
+        System.out.println("dev1");
     }
 
 }
