@@ -9,7 +9,7 @@ public class Test {
     }
 
     public void funB() {
-
+        System.out.println("hello world");
     }
 
 }
