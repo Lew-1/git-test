@@ -10,6 +10,8 @@ public class Test {
 
     public void funB() {
         System.out.println("hello world");
+        System.out.println("dev");
+        System.out.println("dev1");
         System.out.println("master");
         System.out.println("master");
     }
